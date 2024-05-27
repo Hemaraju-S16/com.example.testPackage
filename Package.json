@@ -11,15 +11,23 @@
   "dependencies": {
     "com.[company-name].some-package": "1.0.0",
     "com.[company-name].other-package": "2.0.0"
- },
- "keywords": [
+  },
+  "keywords": [
     "keyword1",
     "keyword2",
     "keyword3"
   ],
   "author": {
-    "name": "Unity",
+    "name": "MasterXeon 1001",
     "email": "unity@example.com",
     "url": "https://www.unity3d.com"
-  }
+  },
+  "samples": [
+    {
+      "displayName": "Example Sample",
+      "description": "A sample scene demonstrating the usage of the package.",
+      "path": "Samples~/ExampleSample"
+    }
+  ]
 }
+
