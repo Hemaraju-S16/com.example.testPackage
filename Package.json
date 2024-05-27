@@ -1,5 +1,5 @@
 {
-  "name": "com.[company-name].[package-name]",
+  "name": "com.Example.testpackage",
   "version": "1.0.0",
   "displayName": "Package Example",
   "description": "This is an example package",
