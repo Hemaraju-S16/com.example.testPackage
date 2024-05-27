@@ -21,13 +21,6 @@
     "name": "MasterXeon_1001",
     "email": "unity@example.com",
     "url": "https://www.unity3d.com"
-  },
-  "samples": [
-    {
-      "displayName": "Example Sample",
-      "description": "A sample scene demonstrating the usage of the package.",
-      "path": "Samples~/ExampleSample/Samplescene.unity"
-    }
-  ]
+  }
 }
 
