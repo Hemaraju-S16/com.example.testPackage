@@ -26,7 +26,7 @@
     {
       "displayName": "Example Sample",
       "description": "A sample scene demonstrating the usage of the package.",
-      "path": "Assets/com.example.testPackage/Samples/Sample scene.unityAssets/com.example.testPackage/Samples/Sample scene.unity"
+      "path": "Samples~/Sample scene"
     }
   ]
 }
